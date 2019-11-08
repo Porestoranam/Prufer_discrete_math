@@ -1,4 +1,4 @@
-# Pruffer_discrete_math
+# Prufer_discrete_math
 
 
 The program can create tree graph and visualize it by Prufer code. Also the program builds Prufer code by adjacency list. The project was implemented using jupiter notebook. The construction of the Puгfer code for a given tree and the restoration of a tree by its code is performed with asymptotic complexity O(n) with using O(n) additional memory.
