@@ -15,6 +15,6 @@ Other existing related programs: https://github.com/skswanke/pruferdecode - a si
 
 https://gist.github.com/forthright48/f403befb8c12ad18c38f21825ce98af6 - a console program for constructing an adjacency matrix by the code of the proliferator, implementation in C ++.
 
-https://github.com/GalaxyDragon/Prufer_code_decoder - a program of buildig and visualizating tree corresponding to the Prufer code by Alexey Berdovsky (MIPT 2019).
+https://github.com/GalaxyDragon/Prufer_code_decoder - a program of building and visualization tree corresponding to the Prufer code by Alexey Berdovsky (MIPT 2019).
 
 Authors: Mazheyka Mikhail and Akopyan Albert Date: 20.10.19 (MIPT)
